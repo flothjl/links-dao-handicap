@@ -1,0 +1,23 @@
+{
+  "name": "links-dao-handicap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flothjl/links-dao-handicap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flothjl/links-dao-handicap/issues"
+  },
+  "homepage": "https://github.com/flothjl/links-dao-handicap#readme",
+  "devDependencies": {
+    "truffle": "^5.5.11"
+  }
+}
